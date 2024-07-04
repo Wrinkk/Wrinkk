@@ -2,6 +2,8 @@
   
 ![Wrinkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wrinkk&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrinkk&layout=compact&langs_count=6&card_width=445)
+
 <h3 align="center">🛠 Tech Stack </h3>
 <p>
 <img src="https://img.shields.io/badge/java-FF3670?style=for-the-badge&logo=java&logoColor=white"> 
